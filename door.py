@@ -1,4 +1,4 @@
-"test"
+"testing"
 class Door:
     """
     Diese Klasse beschreibt eine Türe mit der Eigenschaft color (Farbe) und den Zuständen
